@@ -1,4 +1,5 @@
 # hello-world
-Learning Git
-Checking out Merge 
-Checking out Pull Request
+# Learning Git
+# Checking out Merge 
+# Checking out Pull Request
+# Checking Out Branches
